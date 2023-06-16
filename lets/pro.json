@@ -1,0 +1,46 @@
+[
+    {
+        "name": "sanjay",
+        "email": "abc@gmail.com",
+        "password" : "pips",
+        "price"     : 252,
+        " company"  : "apple"
+
+},
+{
+    "name": "sanjan",
+        "email": "abcd@gmail.com",
+        "password" : "pipss",
+        " company"  : "samsung",
+        "price"     : 222
+
+},
+{
+    "name": "manoj",
+    "email": "abcf@gmail.com",
+    "password" : "asd",
+    "price"     : 214,
+    " company"  : "jio"
+
+
+},
+{
+    "name": "samir",
+    "email": "aabc@gmail.com",
+    "password" : "asdpips",
+    "price"     : 232,
+    " company"  : "poco"
+
+
+},
+
+{
+    "name": "piyush",
+    "email": "addbc@gmail.com",
+    "password" : "piyush",
+    "price"     : 262,
+    " company"  : "apple"
+  
+
+}
+]
